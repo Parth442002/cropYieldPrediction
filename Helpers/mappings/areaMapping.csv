@@ -1,213 +1,213 @@
-Area Code,Area
-2,Afghanistan
-3,Albania
-4,Algeria
-5,American Samoa
-7,Angola
-8,Antigua and Barbuda
-9,Argentina
-1,Armenia
-10,Australia
-11,Austria
-52,Azerbaijan
-12,Bahamas
-13,Bahrain
-16,Bangladesh
-14,Barbados
-57,Belarus
-255,Belgium
-15,Belgium-Luxembourg
-23,Belize
-53,Benin
-17,Bermuda
-18,Bhutan
-19,Bolivia (Plurinational State of)
-80,Bosnia and Herzegovina
-20,Botswana
-21,Brazil
-26,Brunei Darussalam
-27,Bulgaria
-233,Burkina Faso
-29,Burundi
-35,Cabo Verde
-115,Cambodia
-32,Cameroon
-33,Canada
-36,Cayman Islands
-37,Central African Republic
-39,Chad
-40,Chile
-351,China
-96,"China, Hong Kong SAR"
-41,"China, mainland"
-214,"China, Taiwan Province of"
-44,Colombia
-45,Comoros
-46,Congo
-47,Cook Islands
-48,Costa Rica
-107,Côte d'Ivoire
-98,Croatia
-49,Cuba
-50,Cyprus
-167,Czechia
-51,Czechoslovakia
-116,Democratic People's Republic of Korea
-250,Democratic Republic of the Congo
-54,Denmark
-72,Djibouti
-55,Dominica
-56,Dominican Republic
-58,Ecuador
-59,Egypt
-60,El Salvador
-61,Equatorial Guinea
-178,Eritrea
-63,Estonia
-238,Ethiopia
-62,Ethiopia PDR
-64,Faroe Islands
-66,Fiji
-67,Finland
-68,France
-69,French Guiana
-70,French Polynesia
-74,Gabon
-75,Gambia
-73,Georgia
-79,Germany
-81,Ghana
-84,Greece
-86,Grenada
-87,Guadeloupe
-88,Guam
-89,Guatemala
-90,Guinea
-175,Guinea-Bissau
-91,Guyana
-93,Haiti
-95,Honduras
-97,Hungary
-99,Iceland
-100,India
-101,Indonesia
-102,Iran (Islamic Republic of)
-103,Iraq
-104,Ireland
-105,Israel
-106,Italy
-109,Jamaica
-110,Japan
-112,Jordan
-108,Kazakhstan
-114,Kenya
-118,Kuwait
-113,Kyrgyzstan
-120,Lao People's Democratic Republic
-119,Latvia
-121,Lebanon
-122,Lesotho
-123,Liberia
-124,Libya
-126,Lithuania
-256,Luxembourg
-129,Madagascar
-130,Malawi
-131,Malaysia
-132,Maldives
-133,Mali
-134,Malta
-135,Martinique
-136,Mauritania
-137,Mauritius
-138,Mexico
-145,Micronesia (Federated States of)
-141,Mongolia
-273,Montenegro
-142,Montserrat
-143,Morocco
-144,Mozambique
-28,Myanmar
-147,Namibia
-149,Nepal
-150,Netherlands
-153,New Caledonia
-156,New Zealand
-157,Nicaragua
-158,Niger
-159,Nigeria
-160,Niue
-162,Norway
-299,Occupied Palestinian Territory
-221,Oman
-164,Pacific Islands Trust Territory
-165,Pakistan
-166,Panama
-168,Papua New Guinea
-169,Paraguay
-170,Peru
-171,Philippines
-173,Poland
-174,Portugal
-177,Puerto Rico
-179,Qatar
-117,Republic of Korea
-146,Republic of Moldova
-182,Réunion
-183,Romania
-185,Russian Federation
-184,Rwanda
-188,Saint Kitts and Nevis
-189,Saint Lucia
-191,Saint Vincent and the Grenadines
-244,Samoa
-193,Sao Tome and Principe
-194,Saudi Arabia
-195,Senegal
-272,Serbia
-186,Serbia and Montenegro
-196,Seychelles
-197,Sierra Leone
-200,Singapore
-199,Slovakia
-198,Slovenia
-25,Solomon Islands
-201,Somalia
-202,South Africa
-277,South Sudan
-203,Spain
-38,Sri Lanka
-276,Sudan
-206,Sudan (former)
-207,Suriname
-209,Eswatini
-210,Sweden
-211,Switzerland
-212,Syrian Arab Republic
-208,Tajikistan
-216,Thailand
-154,The former Yugoslav Republic of Macedonia
-176,Timor-Leste
-217,Togo
-219,Tonga
-220,Trinidad and Tobago
-222,Tunisia
-223,Turkey
-213,Turkmenistan
-226,Uganda
-230,Ukraine
-225,United Arab Emirates
-229,United Kingdom
-215,United Republic of Tanzania
-231,United States of America
-234,Uruguay
-228,USSR
-235,Uzbekistan
-155,Vanuatu
-236,Venezuela (Bolivarian Republic of)
-237,Viet Nam
-243,Wallis and Futuna Islands
-249,Yemen
-248,Yugoslav SFR
-251,Zambia
-181,Zimbabwe
+Area,Element Code
+Afghanistan,5419
+Albania,5419
+Algeria,5419
+American Samoa,5419
+Angola,5419
+Antigua and Barbuda,5419
+Argentina,5419
+Armenia,5419
+Australia,5419
+Austria,5419
+Azerbaijan,5419
+Bahamas,5419
+Bahrain,5419
+Bangladesh,5419
+Barbados,5419
+Belarus,5419
+Belgium,5419
+Belgium-Luxembourg,5419
+Belize,5419
+Benin,5419
+Bermuda,5419
+Bhutan,5419
+Bolivia (Plurinational State of),5419
+Bosnia and Herzegovina,5419
+Botswana,5419
+Brazil,5419
+Brunei Darussalam,5419
+Bulgaria,5419
+Burkina Faso,5419
+Burundi,5419
+Cabo Verde,5419
+Cambodia,5419
+Cameroon,5419
+Canada,5419
+Cayman Islands,5419
+Central African Republic,5419
+Chad,5419
+Chile,5419
+China,5419
+"China, Hong Kong SAR",5419
+"China, mainland",5419
+"China, Taiwan Province of",5419
+Colombia,5419
+Comoros,5419
+Congo,5419
+Cook Islands,5419
+Costa Rica,5419
+Côte d'Ivoire,5419
+Croatia,5419
+Cuba,5419
+Cyprus,5419
+Czechia,5419
+Czechoslovakia,5419
+Democratic People's Republic of Korea,5419
+Democratic Republic of the Congo,5419
+Denmark,5419
+Djibouti,5419
+Dominica,5419
+Dominican Republic,5419
+Ecuador,5419
+Egypt,5419
+El Salvador,5419
+Equatorial Guinea,5419
+Eritrea,5419
+Estonia,5419
+Ethiopia,5419
+Ethiopia PDR,5419
+Faroe Islands,5419
+Fiji,5419
+Finland,5419
+France,5419
+French Guiana,5419
+French Polynesia,5419
+Gabon,5419
+Gambia,5419
+Georgia,5419
+Germany,5419
+Ghana,5419
+Greece,5419
+Grenada,5419
+Guadeloupe,5419
+Guam,5419
+Guatemala,5419
+Guinea,5419
+Guinea-Bissau,5419
+Guyana,5419
+Haiti,5419
+Honduras,5419
+Hungary,5419
+Iceland,5419
+India,5419
+Indonesia,5419
+Iran (Islamic Republic of),5419
+Iraq,5419
+Ireland,5419
+Israel,5419
+Italy,5419
+Jamaica,5419
+Japan,5419
+Jordan,5419
+Kazakhstan,5419
+Kenya,5419
+Kuwait,5419
+Kyrgyzstan,5419
+Lao People's Democratic Republic,5419
+Latvia,5419
+Lebanon,5419
+Lesotho,5419
+Liberia,5419
+Libya,5419
+Lithuania,5419
+Luxembourg,5419
+Madagascar,5419
+Malawi,5419
+Malaysia,5419
+Maldives,5419
+Mali,5419
+Malta,5419
+Martinique,5419
+Mauritania,5419
+Mauritius,5419
+Mexico,5419
+Micronesia (Federated States of),5419
+Mongolia,5419
+Montenegro,5419
+Montserrat,5419
+Morocco,5419
+Mozambique,5419
+Myanmar,5419
+Namibia,5419
+Nepal,5419
+Netherlands,5419
+New Caledonia,5419
+New Zealand,5419
+Nicaragua,5419
+Niger,5419
+Nigeria,5419
+Niue,5419
+Norway,5419
+Occupied Palestinian Territory,5419
+Oman,5419
+Pacific Islands Trust Territory,5419
+Pakistan,5419
+Panama,5419
+Papua New Guinea,5419
+Paraguay,5419
+Peru,5419
+Philippines,5419
+Poland,5419
+Portugal,5419
+Puerto Rico,5419
+Qatar,5419
+Republic of Korea,5419
+Republic of Moldova,5419
+Réunion,5419
+Romania,5419
+Russian Federation,5419
+Rwanda,5419
+Saint Kitts and Nevis,5419
+Saint Lucia,5419
+Saint Vincent and the Grenadines,5419
+Samoa,5419
+Sao Tome and Principe,5419
+Saudi Arabia,5419
+Senegal,5419
+Serbia,5419
+Serbia and Montenegro,5419
+Seychelles,5419
+Sierra Leone,5419
+Singapore,5419
+Slovakia,5419
+Slovenia,5419
+Solomon Islands,5419
+Somalia,5419
+South Africa,5419
+South Sudan,5419
+Spain,5419
+Sri Lanka,5419
+Sudan,5419
+Sudan (former),5419
+Suriname,5419
+Eswatini,5419
+Sweden,5419
+Switzerland,5419
+Syrian Arab Republic,5419
+Tajikistan,5419
+Thailand,5419
+The former Yugoslav Republic of Macedonia,5419
+Timor-Leste,5419
+Togo,5419
+Tonga,5419
+Trinidad and Tobago,5419
+Tunisia,5419
+Turkey,5419
+Turkmenistan,5419
+Uganda,5419
+Ukraine,5419
+United Arab Emirates,5419
+United Kingdom,5419
+United Republic of Tanzania,5419
+United States of America,5419
+Uruguay,5419
+USSR,5419
+Uzbekistan,5419
+Vanuatu,5419
+Venezuela (Bolivarian Republic of),5419
+Viet Nam,5419
+Wallis and Futuna Islands,5419
+Yemen,5419
+Yugoslav SFR,5419
+Zambia,5419
+Zimbabwe,5419
